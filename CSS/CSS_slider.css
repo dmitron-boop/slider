@@ -1,0 +1,12 @@
+.body-slider {
+	margin: 0 auto;
+	text-align: center;
+}
+.body-slider img {
+	width: 250px;
+	height: 350px;
+	background: #ffffff;
+	border: 10px solid #ffffff;
+	border-bottom: 45px solid #fff;
+	box-shadow: 3px 3px 3px #777;
+}
